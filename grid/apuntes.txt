@@ -1,0 +1,6 @@
+gutters:
+quita el espaciado que por defecto pone boostrap
+se pone junto al row
+posibles valores de gutter (g)
+row g-0 gy-5 gx-5
+-----------------------------------------------------
