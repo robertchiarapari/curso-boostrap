@@ -1,0 +1,32 @@
+gutters:
+quita el espaciado que por defecto pone boostrap
+se pone junto al row
+posibles valores de gutter (g)
+row g-0 gy-5 gx-5
+-----------------------------------------------------
+-----------------------------------------------------
+ordenar columnas
+-usando order que solo puede tomar valores de 1 al 5
+-se pone junto al "col" 
+-ejemplo 
+col-6 order-1
+
+adicional 1
+--------
+el order se puede hacer segun el dispositivo
+order-md-1  order-lg-5  
+adicional 2
+-----------
+tambien existe order-first y order-last
+-----------------------------------------------------
+-----------------------------------------------------
+
+desplazar un col x columnas
+offset-6 (se desplaza esa columna 6 columnas en un dispositivo pequeño hacia adelante) 
+tambien existe offset-md-6
+
+-----------------------------------------------------
+-----------------------------------------------------
+uso de col-auto
+
+el col-auto toma el ancho del contenido
