@@ -1,0 +1,4 @@
+los encabezados son h1 h2 .. h6
+uso de lorem
+
+escribo lorem10 + tab y me genera un texto con 10 palabras
