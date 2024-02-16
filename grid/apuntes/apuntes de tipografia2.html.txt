@@ -1,0 +1,7 @@
+atajo para envolver un contenido y ponerle una etiqueta (visual studio code)
+1.selecciono el contenido a envolver
+2.tecleo ctrl+shift+p
+3. en la parte de arriba escribir "wrap" y de ahi enter
+4.escribir la etiqueta que deseas que envuelva . ejemplo "mark"
+
+etiqueta "strong" sirve para ponerle negrita al texto
