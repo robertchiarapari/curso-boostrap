@@ -1,0 +1,4 @@
+una tabla responsive.
+class="table-responsive"
+lo envolvemos a una table y toda la tabla se vuelve responsive que si la pantalla es pequeña
+se crea un scroll horizontal solo para la tabla sin afectar los otros controles
