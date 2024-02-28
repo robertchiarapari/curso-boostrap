@@ -1,0 +1,4 @@
+mover un bloque de codigo sin cortar
+
+1.selecciona bloque de codigo html a mover
+2. oprimir tecla "fecha hacia arriba" o "flecha hacia abajo" (solo son esas 2 opciones)
