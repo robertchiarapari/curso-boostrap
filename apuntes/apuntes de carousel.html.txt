@@ -1,0 +1,13 @@
+seleccionar mismos texto para poder editar simultaneamente
+
+por ejemplo cambiar todo lo que dice "next" por prev
+                <button 
+                    class="carousel-control-next" 
+                    type="button" 
+                    data-bs-target="#mi-carousel"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Anterior</span>
+                </button>
+paso 1: elige el incio de cada palabra de "next" posiionarse al inicio de esa palabra con tecla "ALT" + CLICK
+paso 2. una vez seleccionado los tres inicios oprime CTRL + D y automaticamente seleccinara "next" en las tres coindicencias
